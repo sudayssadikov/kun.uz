@@ -1,0 +1,321 @@
+{
+  "nav": {
+    "categories": "Kategoriyalar",
+    "region": "Hudud",
+    "media": "Media",
+    "language": "O'zbek tili"
+  },
+  "menu": {
+    "barchasi": "Barchasi",
+    "ozbekiston": "O'zbekiston",
+    "jahon": "Jahon",
+    "iqtisodiyot": "Iqtisodiyot",
+    "jamiyat": "Jamiyat",
+    "fanTexnika": "Fan va Texnika",
+    "sport": "Sport",
+    "light": "Light",
+    "businessClass": "Business class",
+    "audio": "Audio"
+  },
+  "hero": {
+    "category": "O'ZBEKISTON",
+    "title": "Ekologik farmon: qurilishlar va korxonalar ustidan qat'iy nazorat, sun'iy ko'llar, transport harakatidagi cheklovlar",
+    "latestNews": "So'ngi yangiliklar",
+    "viewMore": "Bo'limga o'tish",
+    "latestNewsList": {
+      "1": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN...",
+      "2": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN...",
+      "3": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN...",
+      "4": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN..."
+    }
+  },
+  "trending": {
+    "title": "Dolzarb xabarlar",
+    "viewAll": "Bo'limga o'tish",
+    "news": {
+      "1": "Saida Mirziyoyeva Toshkentda ekologik vaziyatni yaxshilash bo'yicha kompleks takliflarni...",
+      "2": "Jizzaxda AES qurilishi loyihasi bo'yicha jamoatchilik eshituvlari o'tkaziladi",
+      "3": "O'zbekiston milliy jamoasi JCh-2026 qur'asida uchinchi savatdan joy oldi",
+      "4": "AQSh tinchlik rejasini qisqartirdi – va endi Rossiyani uni qabul qilishga ko'ndirmoqchi",
+      "5": "25 yillik jinoyat, rasmga olishga taqiq va Hindistonga borgan «Tolibon» vazirlar...",
+      "6": "«Neftchi» 24 yillik tanaffusdan keyin O'zbekiston chempioni bo'ldi",
+      "7": "Havoni ifloslaydigan korxonalarga muhlat berildi: ular monitoring stansiyasini o'rnati...",
+      "8": "Andijonda ichki ishlar xodimi va uning voyaga yetmagan qizi is gazidan vafot etdi"
+    }
+  },
+  "photoGallery": {
+    "title": "Foto galereya",
+    "viewAll": "Bo'limga o'tish",
+    "photos": {
+      "1": "Javohir Sindorov Jahon kubogi g'olibi bo'ldi. U finalda Xitoy vakili Vey Yini mag'lub etdi va Jaho...",
+      "2": "Toshkentdagi ekologik vaziyatni yaxshilash uchun maxsus komissiya tuzildi, unga jiddiy vakolatlar..."
+    }
+  },
+  "survey": {
+    "title": "Kun.uz surishtiruvi",
+    "viewAll": "Bo'limga o'tish",
+    "news": {
+      "1": "\"Yuk mashinalari sabab halovat yo'q\" – chegara qishloqdagi tartibsizliklar qachon barham topadi?",
+      "2": "\"Hamma biladi, lekin hech kim indamaydi\" - Buloqboshida kanalni ko'pikka to'ldirgan kim?",
+      "3": "\"Vahshiylik shu darajada bo'ladimi?..\" - zaharli dori sabab vodiyda asalarilar qirilib bitmoqda",
+      "4": "\"Medgorodok\"dagi kabi voqea takrorlanmasligi kafolat bormi? Toshkentda issiq suv quvuri bosim",
+      "5": "O'zbekistonda dorilar Qozog'istonga qaraganda qimmat – farmatsevtika bozoriqa qanday omillar ta'sir qilayapti?",
+      "6": "\"O lib qolaman deb o'yladim\" – Toshkentda ilk marta qimirlab qiynab, bo'yiniga jiroyat ilmoqchi bo'lishdi"
+    }
+  },
+  "articles": {
+    "title": "Maqolalar",
+    "viewAll": "Bo'limga o'tish",
+    "items": {
+      "1": {
+        "title": "«Tramp tinchlik rejasi»da nima yozilgan? Barcha 28 band o'zbek tilida",
+        "description": "Tramp ma'muriyatidagilarning o'zini tutishiga qaraganda, bu qoralama osmondan olinmagan. «Tramp tinchlik rejasi» sifatida talqin qilinayotgan"
+      },
+      "2": {
+        "title": "«Tramp tinchlik rejasi»da nima yozilgan? Barcha 28 band o'zbek tilida",
+        "description": "Tramp ma'muriyatidagilarning o'zini tutishiga qaraganda, bu qoralama osmondan olinmagan. «Tramp tinchlik rejasi» sifatida talqin qilinayotgan"
+      },
+      "3": {
+        "title": "«Tramp tinchlik rejasi»da nima yozilgan? Barcha 28 band o'zbek tilida",
+        "description": "Tramp ma'muriyatidagilarning o'zini tutishiga qaraganda, bu qoralama osmondan olinmagan. «Tramp tinchlik rejasi» sifatida talqin qilinayotgan"
+      },
+      "4": {
+        "title": "«Tramp tinchlik rejasi»da nima yozilgan? Barcha 28 band o'zbek tilida",
+        "description": "Tramp ma'muriyatidagilarning o'zini tutishiga qaraganda, bu qoralama osmondan olinmagan. «Tramp tinchlik rejasi» sifatida talqin qilinayotgan"
+      },
+      "5": {
+        "title": "«Tramp tinchlik rejasi»da nima yozilgan? Barcha 28 band o'zbek tilida",
+        "description": "Tramp ma'muriyatidagilarning o'zini tutishiga qaraganda, bu qoralama osmondan olinmagan. «Tramp tinchlik rejasi» sifatida talqin qilinayotgan"
+      },
+      "6": {
+        "title": "«Tramp tinchlik rejasi»da nima yozilgan? Barcha 28 band o'zbek tilida",
+        "description": "Tramp ma'muriyatidagilarning o'zini tutishiga qaraganda, bu qoralama osmondan olinmagan. «Tramp tinchlik rejasi» sifatida talqin qilinayotgan"
+      }
+    }
+  },
+  "videoNews": {
+    "title": "Video-yangiliklar",
+    "viewAll": "Bo'limga o'tish",
+    "viewMore": "Bo'limga o'tish",
+    "videos": {
+      "1": {
+        "title": "Ayrim daraxtlar gullay boshladi. Endi nima bo'ladi? Issiq va yomg'irsiz kuz ajib hodisani keltirib chiqardi"
+      },
+      "2": {
+        "title": "Avtomobillarga ekostikerlar beriladi: \"yashil\", \"sariq\" va \"qizil\""
+      },
+      "3": {
+        "title": "Mobil operatorlar narxlarni oshirmoqda. Soliq imtiyoz berilsa, narxlar pasayishi mumkinmi?"
+      },
+      "4": {
+        "title": "Isroil G'arbiy sohilning shimoliy qismida yirik harbiy operatsiyani boshladi"
+      },
+      "5": {
+        "title": "Ukrainaning iste'foga chiqqan bosh muzokarachi AQSh va Evropa rejasi haqida gapirib berdi"
+      }
+    }
+  },
+  "interviews": {
+    "title": "Intervyular",
+    "viewAll": "Bo'limga o'tish",
+    "items": {
+      "1": {
+        "title": "Islomiy moliya – real bozordan ajralmagan iqtisodiyot...",
+        "description": "\"Qora dushanba\", \"qora payshanba\" – dunyoda turlicha nomli moliyaviy inqirozlar bo'lib turadi. Bu inqirozlarning sababi..."
+      },
+      "2": {
+        "title": "Depressiya, genetika yoki jamiyat bosimi: odamlarni suitsidga...",
+        "description": "\"Qora dushanba\", \"qora payshanba\" – dunyoda turlicha nomli moliyaviy inqirozlar bo'lib turadi. Bu inqirozlarning sababi..."
+      },
+      "3": {
+        "title": "\"Maqsadni katta qo'yib, qo'rqmaslik kerak\" – Harvardning o'zbek...",
+        "description": "\"Qora dushanba\", \"qora payshanba\" – dunyoda turlicha nomli moliyaviy inqirozlar bo'lib turadi. Bu inqirozlarning sababi..."
+      },
+      "4": {
+        "title": "Fermerlar yana sinov qarshisida: moratoriylar nima bo'ladi?",
+        "description": "\"Qora dushanba\", \"qora payshanba\" – dunyoda turlicha nomli moliyaviy inqirozlar bo'lib turadi. Bu inqirozlarning sababi..."
+      }
+    }
+  },
+  "business": {
+    "title": "Kun.uz biznes",
+    "viewAll": "Bo'limga o'tish",
+    "items": {
+      "1": {
+        "title": "TMK – O'zbekiston va AQSh munosabatlarida kritik mineral..."
+      },
+      "2": {
+        "title": "Har bir pikselda bayram: ROG Yangi yilda qanday qilib o'yin..."
+      },
+      "3": {
+        "title": "\"Ipak yo'lida turizm\": Toshkent xalqaro yarmarkasida Sankt..."
+      },
+      "4": {
+        "title": "TMK – O'zbekiston va AQSh munosabatlarida kritik mineral..."
+      }
+    }
+  },
+  "appDownload": {
+    "title": "Har doim xabardor bo'ling!",
+    "subtitle": "Kun.uz mobil ilovalarini ko'chirib oling va barcha yangiliklar siz bilan",
+    "download": "Download",
+    "appStore": "App store",
+    "googlePlay": "Google play"
+  },
+  "footer": {
+    "about": "Sayt haqida",
+    "rss": "RSS",
+    "aloqa": "Aloqa",
+    "reklama": "Reklama",
+    "mavzulari": "Kun mavzulari",
+    "jamoasi": "Kun.uz jamoasi"
+  },
+  "uzbekistanPage": {
+    "heroTitle": "Shavkat Mirziyoyev Gulistonning Bo'ston mahallasini modernizatsiya qilish ishlarini ko'zdan kechirdi",
+    "loadMore": "Yana yuklash",
+    "latestNews": "So'ngi yangiliklar",
+    "viewSection": "Bo'limga o'tish",
+    "newsCards": {
+      "1": "Gulistondagi portlashda halok chiqqan ofitser shaxsini so'ndan berladilar…",
+      "2": "Energetika vazirligi yaratgan iddaa qilingan navbat ishlarga xusudiy tadbirkorga tejaldi…",
+      "3": "Sirdaryo viloyatida Xitoy bilan hamkorlikda avtomobil ishlab chiqarladi…",
+      "4": "Past Darg'omda cho'chqasona egalari havoni ifloslab kelganni aniqlandi…",
+      "5": "Sirdaryo viloyatida «Sultonnovuz» suv ombori quriladi…",
+      "6": "Hafta oxirida yana yomg'ir yog'ishi kutilmoqda, ayrim hududlarda yomg'ir qorga…",
+      "7": "Shavkat Mirziyoyev Sirdaryo viloyatiga tashrif buyuradi",
+      "8": "Markaziy bank voyaga yetmaganlarning kartadan foydalanish tartibi bo'yicha…",
+      "9": "Vengriyaning \"smart qishloq\" tajribasi Sirdaryo'da sinab ko'rilmoqda…"
+    },
+    "sidebarNews": {
+      "1": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "2": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "3": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "4": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "5": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "6": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "7": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "8": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "9": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…",
+      "10": "Ukraina va AQSh tinchlik rejasining kamida 3 ta punktida ixtilof qilmoqda – CNN…"
+    }
+  },
+  "newsDetail": {
+    "similarNews": "O'xshash xabarlar",
+    "viewSection": "Bo'limga o'tish",
+    "title": "Shavkat Mirziyoyev bioaksal polipropilen plyonka ishlab chiqaradigan yagona korxona faoliyati bilan tanishdi",
+    "paragraph1": "Prezident \"Sirdaryo\" erkin iqtisodiy zonasida joylashgan, qadoqlash mahsulotlari va bioaksal yo'naltirilgan polipropilen plyonka ishlab chiqaradigan mamlakatdagi yagona Invest Asia korxonasi faoliyati bilan tanishdi. Mazkur korxona Markaziy Osiyoda qadoqlash mahsulotlari ishlab chiqarish bo'yicha yetakchi majmualardan biri hisoblanadi.",
+    "quote1_1": "Qadoqlash mahsulotlari oziq-ovqat, farmatsevtika, sanoat, qurilish, maishiy kimyo kabi ko'plab tarmoqlar uchun zarur xomashyo hisoblanadi. Ularning sifati mahsulotning xavfsiz saqlanishi, transportirovkasi va bozorga o'z vaqtida yetkazilishiga bevosita ta'sir ko'rsatadi.",
+    "quote1_2": "Shu jihatdan Invest Asia kabi yirik quvvatlarning mamlakatda faoliyat yuritishi import xarajatlarini kamaytiradi, ichki bozor barqarorligi ta'minlashga va ishlab chiqaruvchilar xarajatlarini qisqartirishga xizmat qiladi.",
+    "paragraph2": "Invest Asia korxonasining yana bir muhim jihati shundaki, u O'zbekistonda bioaksal yo'naltirilgan polipropilen plyonka ishlab chiqaradigan yagona korxonadir. Ushbu plyonka turi qadoqlash sohasida eng talabgor materiallardan biri bo'lib, qattiqligi va yengiligi bilan ajralib turadi."
+  },
+  "admin": {
+    "panel": "Admin Panel",
+    "viewSite": "Saytni ko'rish",
+    "logout": "Chiqish",
+    "login": {
+      "title": "Admin Panelga kirish",
+      "subtitle": "KUN.UZ boshqaruv tizimiga xush kelibsiz",
+      "username": "Foydalanuvchi nomi",
+      "usernamePlaceholder": "Foydalanuvchi nomini kiriting",
+      "password": "Parol",
+      "passwordPlaceholder": "Parolingizni kiriting",
+      "submit": "Kirish",
+      "error": "Foydalanuvchi nomi yoki parol noto'g'ri",
+      "backToHome": "Asosiy sahifaga qaytish"
+    },
+    "menu": {
+      "dashboard": "Boshqaruv paneli",
+      "categories": "Kategoriyalar",
+      "posts": "Postlar",
+      "locations": "Hududlar"
+    },
+    "dashboard": {
+      "welcome": "Xush kelibsiz, Admin!",
+      "subtitle": "Tizim ko'rsatkichlari va umumiy ma'lumotlar",
+      "totalPosts": "Jami postlar",
+      "totalCategories": "Jami kategoriyalar",
+      "totalViews": "Jami ko'rishlar",
+      "totalLocations": "Jami hududlar",
+      "recentPosts": "So'ngi postlar",
+      "quickActions": "Tezkor harakatlar",
+      "createPost": "Yangi post yaratish",
+      "createPostDesc": "Yangi yangilik qo'shish",
+      "manageCategories": "Kategoriyalarni boshqarish",
+      "manageCategoriesDesc": "Kategoriyalarni tahrirlash",
+      "manageLocations": "Hududlarni boshqarish",
+      "manageLocationsDesc": "Hududlarni tahrirlash"
+    },
+    "categories": {
+      "title": "Kategoriyalar",
+      "subtitle": "Barcha kategoriyalarni boshqarish va tahrirlash",
+      "addNew": "Yangi kategoriya",
+      "totalCategories": "Jami kategoriyalar",
+      "activeCategories": "Faol kategoriyalar",
+      "totalPosts": "Jami postlar",
+      "categoryName": "Kategoriya nomi",
+      "slug": "Slug",
+      "posts": "Postlar",
+      "status": "Holat",
+      "actions": "Harakatlar",
+      "active": "Faol",
+      "inactive": "Nofaol",
+      "edit": "Tahrirlash",
+      "delete": "O'chirish",
+      "addCategory": "Yangi kategoriya qo'shish",
+      "editCategory": "Kategoriyani tahrirlash",
+      "cancel": "Bekor qilish",
+      "create": "Yaratish",
+      "update": "Yangilash",
+      "deleteConfirm": "Rostdan ham bu kategoriyani o'chirmoqchimisiz?"
+    },
+    "posts": {
+      "title": "Postlar",
+      "subtitle": "Barcha postlarni boshqarish va tahrirlash",
+      "addNew": "Yangi post",
+      "totalPosts": "Jami postlar",
+      "published": "Nashr etilgan",
+      "drafts": "Qoralamalar",
+      "draft": "Qoralama",
+      "totalViews": "Jami ko'rishlar",
+      "postTitle": "Post sarlavhasi",
+      "category": "Kategoriya",
+      "author": "Muallif",
+      "date": "Sana",
+      "views": "Ko'rishlar",
+      "status": "Holat",
+      "actions": "Harakatlar",
+      "edit": "Tahrirlash",
+      "delete": "O'chirish",
+      "addPost": "Yangi post qo'shish",
+      "editPost": "Postni tahrirlash",
+      "content": "Kontent",
+      "cancel": "Bekor qilish",
+      "create": "Yaratish",
+      "update": "Yangilash",
+      "deleteConfirm": "Rostdan ham bu postni o'chirmoqchimisiz?"
+    },
+    "locations": {
+      "title": "Hududlar",
+      "subtitle": "Barcha hududlarni boshqarish va tahrirlash",
+      "addNew": "Yangi hudud",
+      "totalLocations": "Jami hududlar",
+      "activeLocations": "Faol hududlar",
+      "totalPosts": "Jami postlar",
+      "locationName": "Hudud nomi",
+      "region": "Viloyat",
+      "posts": "Postlar",
+      "status": "Holat",
+      "actions": "Harakatlar",
+      "active": "Faol",
+      "inactive": "Nofaol",
+      "edit": "Tahrirlash",
+      "delete": "O'chirish",
+      "addLocation": "Yangi hudud qo'shish",
+      "editLocation": "Hududni tahrirlash",
+      "cancel": "Bekor qilish",
+      "create": "Yaratish",
+      "update": "Yangilash",
+      "deleteConfirm": "Rostdan ham bu hududni o'chirmoqchimisiz?"
+    }
+  }
+}

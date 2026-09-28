@@ -1,0 +1,321 @@
+{
+  "nav": {
+    "categories": "Categories",
+    "region": "Region",
+    "media": "Media",
+    "language": "English"
+  },
+  "menu": {
+    "barchasi": "All",
+    "ozbekiston": "Uzbekistan",
+    "jahon": "World",
+    "iqtisodiyot": "Economy",
+    "jamiyat": "Society",
+    "fanTexnika": "Science & Technology",
+    "sport": "Sport",
+    "light": "Light",
+    "businessClass": "Business class",
+    "audio": "Audio"
+  },
+  "hero": {
+    "category": "UZBEKISTAN",
+    "title": "Environmental decree: strict control over construction and enterprises, artificial lakes, traffic restrictions",
+    "latestNews": "Latest News",
+    "viewMore": "Go to section",
+    "latestNewsList": {
+      "1": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN...",
+      "2": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN...",
+      "3": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN...",
+      "4": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN..."
+    }
+  },
+  "trending": {
+    "title": "Trending News",
+    "viewAll": "Go to section",
+    "news": {
+      "1": "Saida Mirziyoyeva presented comprehensive proposals to improve the environmental situation in Tashkent...",
+      "2": "Public hearings on the nuclear power plant construction project will be held in Jizzakh",
+      "3": "Uzbekistan national team took a place in the third basket of the 2026 World Cup draw",
+      "4": "The US has shortened the peace plan – and is now trying to convince Russia to accept it",
+      "5": "25-year-old crime, photo ban and Taliban ministers who went to India...",
+      "6": "Neftchi became the champion of Uzbekistan after a 24-year break",
+      "7": "Air-polluting enterprises were given a deadline: they must install monitoring stations...",
+      "8": "An internal affairs officer and his minor daughter died from gas in Andijan"
+    }
+  },
+  "photoGallery": {
+    "title": "Photo Gallery",
+    "viewAll": "Go to section",
+    "photos": {
+      "1": "Javohir Sindorov became the winner of the World Cup. In the final, he defeated China's representative Wei Yini and won...",
+      "2": "A special commission has been created in Tashkent to improve the environmental situation, with serious powers..."
+    }
+  },
+  "survey": {
+    "title": "Kun.uz Investigation",
+    "viewAll": "Go to section",
+    "news": {
+      "1": "\"Trucks are the reason there's no halva\" – when will the disorder in the border village end?",
+      "2": "\"Everyone knows, but no one speaks\" - Who filled the canal with foam in Buloqboshi?",
+      "3": "\"Can savagery reach this level?..\" - bees are dying in the valley due to poisonous pesticide",
+      "4": "Is there a guarantee that the incident like in \"Medgorodok\" won't happen again? Hot water pipe burst in Tashkent",
+      "5": "Medicines in Uzbekistan are more expensive than in Kazakhstan – what factors affect the pharmaceutical market?",
+      "6": "\"Thought I would die\" – In Tashkent, for the first time, they tried to rob with a knife to the neck"
+    }
+  },
+  "articles": {
+    "title": "Articles",
+    "viewAll": "Go to section",
+    "items": {
+      "1": {
+        "title": "What is written in «Trump's Peace Plan»? All 28 points in Uzbek language",
+        "description": "Judging by the behavior of the Trump administration, this draft was not taken from the ceiling. What is being interpreted as «Trump's Peace Plan»"
+      },
+      "2": {
+        "title": "What is written in «Trump's Peace Plan»? All 28 points in Uzbek language",
+        "description": "Judging by the behavior of the Trump administration, this draft was not taken from the ceiling. What is being interpreted as «Trump's Peace Plan»"
+      },
+      "3": {
+        "title": "What is written in «Trump's Peace Plan»? All 28 points in Uzbek language",
+        "description": "Judging by the behavior of the Trump administration, this draft was not taken from the ceiling. What is being interpreted as «Trump's Peace Plan»"
+      },
+      "4": {
+        "title": "What is written in «Trump's Peace Plan»? All 28 points in Uzbek language",
+        "description": "Judging by the behavior of the Trump administration, this draft was not taken from the ceiling. What is being interpreted as «Trump's Peace Plan»"
+      },
+      "5": {
+        "title": "What is written in «Trump's Peace Plan»? All 28 points in Uzbek language",
+        "description": "Judging by the behavior of the Trump administration, this draft was not taken from the ceiling. What is being interpreted as «Trump's Peace Plan»"
+      },
+      "6": {
+        "title": "What is written in «Trump's Peace Plan»? All 28 points in Uzbek language",
+        "description": "Judging by the behavior of the Trump administration, this draft was not taken from the ceiling. What is being interpreted as «Trump's Peace Plan»"
+      }
+    }
+  },
+  "videoNews": {
+    "title": "Video News",
+    "viewAll": "Go to section",
+    "viewMore": "Go to section",
+    "videos": {
+      "1": {
+        "title": "Some trees started blooming. What will happen now? Warm and rainless autumn caused a strange phenomenon"
+      },
+      "2": {
+        "title": "Cars will be issued eco-stickers: \"green\", \"yellow\" and \"red\""
+      },
+      "3": {
+        "title": "Mobile operators are raising prices. Can prices decrease if tax benefits are provided?"
+      },
+      "4": {
+        "title": "Israel launched a major military operation in the northern West Bank"
+      },
+      "5": {
+        "title": "Ukraine's resigned chief negotiator spoke about the US and European plan"
+      }
+    }
+  },
+  "interviews": {
+    "title": "Interviews",
+    "viewAll": "Go to section",
+    "items": {
+      "1": {
+        "title": "Islamic finance – economy not separated from the real market...",
+        "description": "\"Black Monday\", \"Black Friday\" – financial crises with different names occur in the world. The reason for these crises..."
+      },
+      "2": {
+        "title": "Depression, genetics or societal pressure: what drives people to suicide...",
+        "description": "\"Black Monday\", \"Black Friday\" – financial crises with different names occur in the world. The reason for these crises..."
+      },
+      "3": {
+        "title": "\"Set big goals and don't be afraid\" – Uzbek from Harvard...",
+        "description": "\"Black Monday\", \"Black Friday\" – financial crises with different names occur in the world. The reason for these crises..."
+      },
+      "4": {
+        "title": "Farmers face a new challenge: what will happen with moratoriums?",
+        "description": "\"Black Monday\", \"Black Friday\" – financial crises with different names occur in the world. The reason for these crises..."
+      }
+    }
+  },
+  "business": {
+    "title": "Kun.uz business",
+    "viewAll": "Go to section",
+    "items": {
+      "1": {
+        "title": "TMK – critical mineral in Uzbekistan-US relations..."
+      },
+      "2": {
+        "title": "Holiday in every pixel: how ROG celebrates New Year in games..."
+      },
+      "3": {
+        "title": "\"Tourism on the Silk Road\": St. Petersburg at Tashkent International Fair..."
+      },
+      "4": {
+        "title": "TMK – critical mineral in Uzbekistan-US relations..."
+      }
+    }
+  },
+  "appDownload": {
+    "title": "Stay informed!",
+    "subtitle": "Download Kun.uz mobile apps and all news are with you",
+    "download": "Download",
+    "appStore": "App store",
+    "googlePlay": "Google play"
+  },
+  "footer": {
+    "about": "About",
+    "rss": "RSS",
+    "aloqa": "Contact",
+    "reklama": "Advertising",
+    "mavzulari": "Topics",
+    "jamoasi": "Kun.uz team"
+  },
+  "uzbekistanPage": {
+    "heroTitle": "Shavkat Mirziyoyev reviewed the modernization works of Bostan mahalla in Gulistan",
+    "loadMore": "Load more",
+    "latestNews": "Latest News",
+    "viewSection": "Go to section",
+    "newsCards": {
+      "1": "Identity of officer killed in Gulistan explosion has been established…",
+      "2": "Ministry of Energy provided benefits to private entrepreneur…",
+      "3": "Cars will be manufactured in Syrdarya region in cooperation with China…",
+      "4": "Air pollution by pig farm owners identified in Past Dargom…",
+      "5": "Sultannovuz water reservoir will be built in Syrdarya region…",
+      "6": "Rain is expected on the weekend, in some areas rain with snow…",
+      "7": "Shavkat Mirziyoyev is expected to visit Syrdarya region…",
+      "8": "Central Bank on the procedure for minors to use cards…",
+      "9": "Hungary's \"smart village\" experience is being tested in Syrdarya…"
+    },
+    "sidebarNews": {
+      "1": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "2": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "3": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "4": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "5": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "6": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "7": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "8": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "9": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…",
+      "10": "Ukraine and the US disagree on at least 3 points of the peace plan – CNN…"
+    }
+  },
+  "newsDetail": {
+    "similarNews": "Similar News",
+    "viewSection": "Go to section",
+    "title": "Shavkat Mirziyoyev got acquainted with the activities of the only enterprise producing biaxially oriented polypropylene film",
+    "paragraph1": "The President got acquainted with the activities of the only enterprise in the country, Invest Asia, located in the Syrdarya free economic zone, which produces packaging products and biaxially oriented polypropylene film. This enterprise is one of the leading complexes for the production of packaging products in Central Asia.",
+    "quote1_1": "Packaging products are necessary raw materials for many industries such as food, pharmaceuticals, industry, construction, household chemicals. Their quality directly affects the safe storage, transportation and timely delivery of products to the market.",
+    "quote1_2": "In this regard, the operation of such large capacities as Invest Asia in the country contributes to reducing import costs, ensuring the stability of the domestic market and reducing the costs of manufacturers.",
+    "paragraph2": "Another important aspect of the Invest Asia enterprise is that it is the only enterprise in Uzbekistan producing biaxially oriented polypropylene film. This type of film is one of the most sought-after materials in the packaging industry and is distinguished by its strength and lightness."
+  },
+  "admin": {
+    "panel": "Admin Panel",
+    "viewSite": "View Site",
+    "logout": "Logout",
+    "login": {
+      "title": "Admin Panel Login",
+      "subtitle": "Welcome to KUN.UZ management system",
+      "username": "Username",
+      "usernamePlaceholder": "Enter username",
+      "password": "Password",
+      "passwordPlaceholder": "Enter password",
+      "submit": "Login",
+      "error": "Invalid username or password",
+      "backToHome": "Back to homepage"
+    },
+    "menu": {
+      "dashboard": "Dashboard",
+      "categories": "Categories",
+      "posts": "Posts",
+      "locations": "Locations"
+    },
+    "dashboard": {
+      "welcome": "Welcome, Admin!",
+      "subtitle": "System metrics and overview",
+      "totalPosts": "Total Posts",
+      "totalCategories": "Total Categories",
+      "totalViews": "Total Views",
+      "totalLocations": "Total Locations",
+      "recentPosts": "Recent Posts",
+      "quickActions": "Quick Actions",
+      "createPost": "Create New Post",
+      "createPostDesc": "Add new article",
+      "manageCategories": "Manage Categories",
+      "manageCategoriesDesc": "Edit categories",
+      "manageLocations": "Manage Locations",
+      "manageLocationsDesc": "Edit locations"
+    },
+    "categories": {
+      "title": "Categories",
+      "subtitle": "Manage and edit all categories",
+      "addNew": "New Category",
+      "totalCategories": "Total Categories",
+      "activeCategories": "Active Categories",
+      "totalPosts": "Total Posts",
+      "categoryName": "Category Name",
+      "slug": "Slug",
+      "posts": "Posts",
+      "status": "Status",
+      "actions": "Actions",
+      "active": "Active",
+      "inactive": "Inactive",
+      "edit": "Edit",
+      "delete": "Delete",
+      "addCategory": "Add New Category",
+      "editCategory": "Edit Category",
+      "cancel": "Cancel",
+      "create": "Create",
+      "update": "Update",
+      "deleteConfirm": "Are you sure you want to delete this category?"
+    },
+    "posts": {
+      "title": "Posts",
+      "subtitle": "Manage and edit all posts",
+      "addNew": "New Post",
+      "totalPosts": "Total Posts",
+      "published": "Published",
+      "drafts": "Drafts",
+      "draft": "Draft",
+      "totalViews": "Total Views",
+      "postTitle": "Post Title",
+      "category": "Category",
+      "author": "Author",
+      "date": "Date",
+      "views": "Views",
+      "status": "Status",
+      "actions": "Actions",
+      "edit": "Edit",
+      "delete": "Delete",
+      "addPost": "Add New Post",
+      "editPost": "Edit Post",
+      "content": "Content",
+      "cancel": "Cancel",
+      "create": "Create",
+      "update": "Update",
+      "deleteConfirm": "Are you sure you want to delete this post?"
+    },
+    "locations": {
+      "title": "Locations",
+      "subtitle": "Manage and edit all locations",
+      "addNew": "New Location",
+      "totalLocations": "Total Locations",
+      "activeLocations": "Active Locations",
+      "totalPosts": "Total Posts",
+      "locationName": "Location Name",
+      "region": "Region",
+      "posts": "Posts",
+      "status": "Status",
+      "actions": "Actions",
+      "active": "Active",
+      "inactive": "Inactive",
+      "edit": "Edit",
+      "delete": "Delete",
+      "addLocation": "Add New Location",
+      "editLocation": "Edit Location",
+      "cancel": "Cancel",
+      "create": "Create",
+      "update": "Update",
+      "deleteConfirm": "Are you sure you want to delete this location?"
+    }
+  }
+}
